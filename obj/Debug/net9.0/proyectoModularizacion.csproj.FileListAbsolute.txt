@@ -1,0 +1,14 @@
+d:\Escritorio\Modularización Programación1\proyectoModularizacion\obj\Debug\net9.0\proyectoModularizacion.GeneratedMSBuildEditorConfig.editorconfig
+d:\Escritorio\Modularización Programación1\proyectoModularizacion\obj\Debug\net9.0\proyectoModularizacion.AssemblyInfoInputs.cache
+d:\Escritorio\Modularización Programación1\proyectoModularizacion\obj\Debug\net9.0\proyectoModularizacion.AssemblyInfo.cs
+d:\Escritorio\Modularización Programación1\proyectoModularizacion\obj\Debug\net9.0\proyectoModularizacion.csproj.CoreCompileInputs.cache
+d:\Escritorio\Modularización Programación1\proyectoModularizacion\bin\Debug\net9.0\proyectoModularizacion.exe
+d:\Escritorio\Modularización Programación1\proyectoModularizacion\bin\Debug\net9.0\proyectoModularizacion.deps.json
+d:\Escritorio\Modularización Programación1\proyectoModularizacion\bin\Debug\net9.0\proyectoModularizacion.runtimeconfig.json
+d:\Escritorio\Modularización Programación1\proyectoModularizacion\bin\Debug\net9.0\proyectoModularizacion.dll
+d:\Escritorio\Modularización Programación1\proyectoModularizacion\bin\Debug\net9.0\proyectoModularizacion.pdb
+d:\Escritorio\Modularización Programación1\proyectoModularizacion\obj\Debug\net9.0\proyectoModularizacion.dll
+d:\Escritorio\Modularización Programación1\proyectoModularizacion\obj\Debug\net9.0\refint\proyectoModularizacion.dll
+d:\Escritorio\Modularización Programación1\proyectoModularizacion\obj\Debug\net9.0\proyectoModularizacion.pdb
+d:\Escritorio\Modularización Programación1\proyectoModularizacion\obj\Debug\net9.0\proyectoModularizacion.genruntimeconfig.cache
+d:\Escritorio\Modularización Programación1\proyectoModularizacion\obj\Debug\net9.0\ref\proyectoModularizacion.dll
